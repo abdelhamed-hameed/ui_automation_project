@@ -22,3 +22,15 @@ ui_automation_project/
 ├── tests/          # Test cases (Pytest)
 ├── requirements.txt
 └── README.md
+## ✨ Features
+- ✅ Automated UI tests for login (valid/invalid) and shopping cart functionalities.
+- ✅ Implementation of Page Object Model (POM) for clean separation of test logic and page elements.
+- ✅ Automatic waiting mechanisms (`wait_for_selector`) to eliminate flaky tests.
+- ✅ Professional HTML test reports with step-by-step execution details via Allure.
+
+## ️ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/abdelhamed-hameed/ui_automation_project.git
+   cd ui_automation_project
